@@ -11,12 +11,13 @@
 .nuevo{
     width: 150px;
     height: 250px;
-    background-color: red;
+
 }
 
 .product{
     width: 150px;
     height: 150px;
+    border: solid 1px black
 }
 
 section{
