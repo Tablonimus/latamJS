@@ -1,0 +1,25 @@
+#root{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+
+#contador{
+    font-size: 400px;
+}
+
+.nuevo{
+    width: 150px;
+    height: 250px;
+    background-color: red;
+}
+
+.product{
+    width: 150px;
+    height: 150px;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+}
